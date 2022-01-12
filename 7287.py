@@ -1,0 +1,1 @@
+print(f"65\nskatlqja3")
